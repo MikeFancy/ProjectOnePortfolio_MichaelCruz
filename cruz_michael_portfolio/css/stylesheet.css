@@ -1,0 +1,137 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+body {
+    background-color: #eaddca;
+}
+
+h1 {
+    font-family: "Outfit", serif;
+    font-style: italic;
+    font-size: 100px;
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+}
+
+h2 {
+    font-family: "Outfit", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    display: inline;
+    position: relative;
+    bottom: 672px;
+    left: 870px;
+    padding: 13px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+p {
+    font-family: "Outfit", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    margin: 0;
+    position: relative;
+    bottom: 558px;
+    left: 200px;
+}
+
+.rectangle {
+    width: 1050px;
+    height: 500px;
+    border-style: solid;
+    position: relative;
+    left: 185px;
+    top: 80px;
+}
+
+hr {
+    position: relative;
+    bottom: 300px;
+    width: 1050px;
+    left: 7px;
+    border-top: 1px solid black;
+}
+
+.vl {
+    border-left: 1px solid black;
+    height: 362px;
+    position: relative;
+    bottom: 657px;
+    left: 550px;
+}
+
+.vl2 {
+    border-left: 1px solid black;
+    height: 361px;
+    position: relative;
+    bottom: 1018px;
+    left: 560px;
+}
+
+.vl3 {
+    border-left: 1px solid black;
+    height: 361px;
+    position: relative;
+    bottom: 1734px;
+    left: 840px;
+}
+
+.vl4 {
+    border-left: 1px solid black;
+    height: 360px;
+    position: relative;
+    bottom: 2094px;
+    left: 850px;
+}
+
+.running {
+    width: 245px;
+    height: 350px;
+    position: relative;
+    bottom: 1375px;
+    left: 580px;
+}
+
+.gif {
+    position: relative;
+    left: 345px;
+    bottom: 980px;
+    width: 20px;
+    height: 20px;
+}
+
+.profilepic {
+    position: relative;
+    left: 940px;
+    bottom: 2450px;
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    position: relative;
+    bottom: 1350px;
+    left: 580px;
+    width: 245px;
+    height: 350px;
+}
+
+
+
+<https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_hr>
+[for the line making in my code]
+
+<https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_vertical_line>
+[for making the vertical line]

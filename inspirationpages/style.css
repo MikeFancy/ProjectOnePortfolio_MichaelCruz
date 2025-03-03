@@ -1,0 +1,130 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+    background-color: #eaddca;
+}
+
+h1 {
+    font-family: "Outfit", serif;
+}
+
+h2 {
+    font-family: "Outfit", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 1090px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    font-family: "Outfit", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 12px;
+    width: 380px;
+    height: 100px;
+    padding: 10px;
+    border: none;
+    margin: 0;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+h4 {
+    font-family: "Outfit", serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 70px;
+    display: inline;
+    position: relative;
+    left: 256px;
+    top: 80px;
+}
+
+.kimjunggi {
+    position: relative;
+    top: 130px;
+}
+
+.saulbass {
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+}
+
+.keithharing {
+    position: relative;
+    left: 1000px;
+    bottom: 930px;
+}
+
+.kimjungjilink {
+    position: relative;
+    bottom: -120px;
+    left: 149px;
+    font-family: "Outfit", serif;
+}
+
+.saulbasslink {
+    position: relative;
+    bottom: 400px;
+    left: 655px;
+    font-family: "Outfit", serif;
+}
+
+.keithharinglink {
+    position: relative;
+    left: 1160px;
+    bottom: 930px;
+    font-family: "Outfit", serif;
+}
+
+.title-kim {
+    position: relative;
+    bottom: -100px;
+    left: 100px;
+}
+
+.title-saul {
+    position: relative;
+    left: 620px;
+    bottom: 430px;
+}
+
+.title-keith {
+    position: relative;
+    left: 1110px;
+    bottom: 958px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.picture-kim {
+    position: relative;
+    top: 100px;
+    left: 40px;
+}
+
+.picture-saul {
+    position: relative;
+    left: 540px;
+    top: -430px;
+
+}
+
+.picture-keith {
+    position: relative;
+    left: 1050px;
+    bottom: 960px;
+}
